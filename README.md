@@ -1,4 +1,6 @@
 Hey Jaguar
 ----------
 
-That was kinda fun, first pre-interview test thing I've done. It was easy to follow and didn't take too long. 9/10, good experience.
+Thanks for giving me the chance to complete the challenge. It was fun working on it. <br/>
+
+Let me know if you'd like to get in touch. You can find my information and resume at http://dannycodes.com, or get in touch with me via github. 
